@@ -1,0 +1,155 @@
+0 info it worked if it ends with ok
+1 verbose cli [ 'D:\\Program Files\\nodejs\\node.exe',
+1 verbose cli   'D:\\Program Files\\nodejs\\node_modules\\npm\\bin\\npm-cli.js',
+1 verbose cli   'install',
+1 verbose cli   'jsdoc' ]
+2 info using npm@2.15.0
+3 info using node@v4.4.2
+4 verbose install initial load of E:\Github\ol3-master\package.json
+5 verbose installManyTop reading scoped package data from E:\Github\ol3-master\node_modules\async\package.json
+6 verbose installManyTop reading scoped package data from E:\Github\ol3-master\node_modules\browserify\package.json
+7 verbose installManyTop reading scoped package data from E:\Github\ol3-master\node_modules\clean-css\package.json
+8 verbose installManyTop reading scoped package data from E:\Github\ol3-master\node_modules\closure-util\package.json
+9 verbose installManyTop reading scoped package data from E:\Github\ol3-master\node_modules\coveralls\package.json
+10 verbose installManyTop reading scoped package data from E:\Github\ol3-master\node_modules\debounce\package.json
+11 verbose installManyTop reading scoped package data from E:\Github\ol3-master\node_modules\derequire\package.json
+12 verbose installManyTop reading scoped package data from E:\Github\ol3-master\node_modules\eslint\package.json
+13 verbose installManyTop reading scoped package data from E:\Github\ol3-master\node_modules\eslint-config-openlayers\package.json
+14 verbose installManyTop reading scoped package data from E:\Github\ol3-master\node_modules\eslint-plugin-openlayers-internal\package.json
+15 verbose installManyTop reading scoped package data from E:\Github\ol3-master\node_modules\expect.js\package.json
+16 verbose installManyTop reading scoped package data from E:\Github\ol3-master\node_modules\fs-extra\package.json
+17 verbose installManyTop reading scoped package data from E:\Github\ol3-master\node_modules\gaze\package.json
+18 verbose installManyTop reading scoped package data from E:\Github\ol3-master\node_modules\glob\package.json
+19 verbose installManyTop reading scoped package data from E:\Github\ol3-master\node_modules\handlebars\package.json
+20 verbose installManyTop reading scoped package data from E:\Github\ol3-master\node_modules\istanbul\package.json
+21 verbose installManyTop reading scoped package data from E:\Github\ol3-master\node_modules\jquery\package.json
+22 verbose installManyTop reading scoped package data from E:\Github\ol3-master\node_modules\jsdoc\package.json
+23 verbose installManyTop reading scoped package data from E:\Github\ol3-master\node_modules\marked\package.json
+24 verbose installManyTop reading scoped package data from E:\Github\ol3-master\node_modules\metalsmith\package.json
+25 verbose installManyTop reading scoped package data from E:\Github\ol3-master\node_modules\metalsmith-layouts\package.json
+26 verbose installManyTop reading scoped package data from E:\Github\ol3-master\node_modules\mocha\package.json
+27 verbose installManyTop reading scoped package data from E:\Github\ol3-master\node_modules\mocha-phantomjs-core\package.json
+28 verbose installManyTop reading scoped package data from E:\Github\ol3-master\node_modules\mustache\package.json
+29 verbose installManyTop reading scoped package data from E:\Github\ol3-master\node_modules\nomnom\package.json
+30 verbose installManyTop reading scoped package data from E:\Github\ol3-master\node_modules\pbf\package.json
+31 verbose installManyTop reading scoped package data from E:\Github\ol3-master\node_modules\phantomjs-prebuilt\package.json
+32 verbose installManyTop reading scoped package data from E:\Github\ol3-master\node_modules\pixelworks\package.json
+33 verbose installManyTop reading scoped package data from E:\Github\ol3-master\node_modules\proj4\package.json
+34 verbose installManyTop reading scoped package data from E:\Github\ol3-master\node_modules\rbush\package.json
+35 verbose installManyTop reading scoped package data from E:\Github\ol3-master\node_modules\resemblejs\package.json
+36 verbose installManyTop reading scoped package data from E:\Github\ol3-master\node_modules\serve-files\package.json
+37 verbose installManyTop reading scoped package data from E:\Github\ol3-master\node_modules\sinon\package.json
+38 verbose installManyTop reading scoped package data from E:\Github\ol3-master\node_modules\slimerjs\package.json
+39 verbose installManyTop reading scoped package data from E:\Github\ol3-master\node_modules\temp\package.json
+40 verbose installManyTop reading scoped package data from E:\Github\ol3-master\node_modules\vector-tile\package.json
+41 verbose installManyTop reading scoped package data from E:\Github\ol3-master\node_modules\walk\package.json
+42 info package.json eslint-plugin-openlayers-internal@2.2.0 No README data
+43 info package.json expect.js@0.3.1 No license field.
+44 info package.json jsdoc@3.2.2 No license field.
+45 info package.json mocha-phantomjs-core@2.1.0 No license field.
+46 info package.json nomnom@1.8.1 No license field.
+47 info package.json slimerjs@0.906.2 No license field.
+48 info package.json vector-tile@1.3.0 license should be a valid SPDX license expression
+49 info package.json walk@2.3.9 No license field.
+50 verbose readDependencies loading dependencies from E:\Github\ol3-master\package.json
+51 verbose install jsdoc is installed as 3.2.2
+52 silly cache add args [ 'jsdoc@3.4.2', null ]
+53 verbose cache add spec jsdoc@3.4.2
+54 silly cache add parsed spec Result {
+54 silly cache add   raw: 'jsdoc@3.4.2',
+54 silly cache add   scope: null,
+54 silly cache add   name: 'jsdoc',
+54 silly cache add   rawSpec: '3.4.2',
+54 silly cache add   spec: '3.4.2',
+54 silly cache add   type: 'version' }
+55 silly addNamed jsdoc@3.4.2
+56 verbose addNamed "3.4.2" is a plain semver version for jsdoc
+57 silly mapToRegistry name jsdoc
+58 silly mapToRegistry using default registry
+59 silly mapToRegistry registry http://registry.npmjs.org/
+60 silly mapToRegistry data Result {
+60 silly mapToRegistry   raw: 'jsdoc',
+60 silly mapToRegistry   scope: null,
+60 silly mapToRegistry   name: 'jsdoc',
+60 silly mapToRegistry   rawSpec: '',
+60 silly mapToRegistry   spec: 'latest',
+60 silly mapToRegistry   type: 'tag' }
+61 silly mapToRegistry uri http://registry.npmjs.org/jsdoc
+62 verbose addNameVersion registry:http://registry.npmjs.org/jsdoc not in flight; fetching
+63 verbose get http://registry.npmjs.org/jsdoc not expired, no request
+64 silly mapToRegistry name jsdoc
+65 silly mapToRegistry using default registry
+66 silly mapToRegistry registry http://registry.npmjs.org/
+67 silly mapToRegistry data Result {
+67 silly mapToRegistry   raw: 'jsdoc',
+67 silly mapToRegistry   scope: null,
+67 silly mapToRegistry   name: 'jsdoc',
+67 silly mapToRegistry   rawSpec: '',
+67 silly mapToRegistry   spec: 'latest',
+67 silly mapToRegistry   type: 'tag' }
+68 silly mapToRegistry uri http://registry.npmjs.org/jsdoc
+69 verbose addRemoteTarball http://registry.npmjs.org/jsdoc/-/jsdoc-3.4.2.tgz not in flight; adding
+70 verbose addRemoteTarball [ 'http://registry.npmjs.org/jsdoc/-/jsdoc-3.4.2.tgz',
+70 verbose addRemoteTarball   'b43ca03e54a575dfff4448a3825e11c4db8f87a1' ]
+71 info retry fetch attempt 1 at 23:55:54
+72 info attempt registry request try #1 at 23:55:54
+73 http fetch GET http://registry.npmjs.org/jsdoc/-/jsdoc-3.4.2.tgz
+74 verbose request id 25f1e7523129d82f
+75 http fetch 500 http://registry.npmjs.org/jsdoc/-/jsdoc-3.4.2.tgz
+76 info retry will retry, error on last attempt: Error: server error 500
+77 info attempt registry request try #2 at 23:56:04
+78 http fetch GET http://registry.npmjs.org/jsdoc/-/jsdoc-3.4.2.tgz
+79 http fetch 500 http://registry.npmjs.org/jsdoc/-/jsdoc-3.4.2.tgz
+80 info retry will retry, error on last attempt: Error: server error 500
+81 info attempt registry request try #3 at 23:57:04
+82 http fetch GET http://registry.npmjs.org/jsdoc/-/jsdoc-3.4.2.tgz
+83 http fetch 500 http://registry.npmjs.org/jsdoc/-/jsdoc-3.4.2.tgz
+84 error fetch failed http://registry.npmjs.org/jsdoc/-/jsdoc-3.4.2.tgz
+85 warn retry will retry, error on last attempt: Error: fetch failed with status code 500
+86 info retry fetch attempt 2 at 23:57:15
+87 info attempt registry request try #1 at 23:57:15
+88 http fetch GET http://registry.npmjs.org/jsdoc/-/jsdoc-3.4.2.tgz
+89 http fetch 500 http://registry.npmjs.org/jsdoc/-/jsdoc-3.4.2.tgz
+90 info retry will retry, error on last attempt: Error: server error 500
+91 info attempt registry request try #2 at 23:57:26
+92 http fetch GET http://registry.npmjs.org/jsdoc/-/jsdoc-3.4.2.tgz
+93 http fetch 500 http://registry.npmjs.org/jsdoc/-/jsdoc-3.4.2.tgz
+94 info retry will retry, error on last attempt: Error: server error 500
+95 info attempt registry request try #3 at 23:58:26
+96 http fetch GET http://registry.npmjs.org/jsdoc/-/jsdoc-3.4.2.tgz
+97 http fetch 500 http://registry.npmjs.org/jsdoc/-/jsdoc-3.4.2.tgz
+98 error fetch failed http://registry.npmjs.org/jsdoc/-/jsdoc-3.4.2.tgz
+99 warn retry will retry, error on last attempt: Error: fetch failed with status code 500
+100 info retry fetch attempt 3 at 23:59:27
+101 info attempt registry request try #1 at 23:59:27
+102 http fetch GET http://registry.npmjs.org/jsdoc/-/jsdoc-3.4.2.tgz
+103 http fetch 500 http://registry.npmjs.org/jsdoc/-/jsdoc-3.4.2.tgz
+104 info retry will retry, error on last attempt: Error: server error 500
+105 info attempt registry request try #2 at 23:59:37
+106 http fetch GET http://registry.npmjs.org/jsdoc/-/jsdoc-3.4.2.tgz
+107 http fetch 500 http://registry.npmjs.org/jsdoc/-/jsdoc-3.4.2.tgz
+108 info retry will retry, error on last attempt: Error: server error 500
+109 info attempt registry request try #3 at 00:00:38
+110 http fetch GET http://registry.npmjs.org/jsdoc/-/jsdoc-3.4.2.tgz
+111 http fetch 500 http://registry.npmjs.org/jsdoc/-/jsdoc-3.4.2.tgz
+112 error fetch failed http://registry.npmjs.org/jsdoc/-/jsdoc-3.4.2.tgz
+113 verbose stack Error: fetch failed with status code 500
+113 verbose stack     at Request.<anonymous> (D:\Program Files\nodejs\node_modules\npm\node_modules\npm-registry-client\lib\fetch.js:51:14)
+113 verbose stack     at emitOne (events.js:77:13)
+113 verbose stack     at Request.emit (events.js:169:7)
+113 verbose stack     at Request.onRequestResponse (D:\Program Files\nodejs\node_modules\npm\node_modules\request\request.js:952:10)
+113 verbose stack     at emitOne (events.js:77:13)
+113 verbose stack     at ClientRequest.emit (events.js:169:7)
+113 verbose stack     at HTTPParser.parserOnIncomingClient [as onIncoming] (_http_client.js:419:21)
+113 verbose stack     at HTTPParser.parserOnHeadersComplete (_http_common.js:103:23)
+113 verbose stack     at Socket.socketOnData (_http_client.js:309:20)
+113 verbose stack     at emitOne (events.js:77:13)
+114 verbose cwd E:\Github\ol3-master
+115 error Windows_NT 10.0.14393
+116 error argv "D:\\Program Files\\nodejs\\node.exe" "D:\\Program Files\\nodejs\\node_modules\\npm\\bin\\npm-cli.js" "install" "jsdoc"
+117 error node v4.4.2
+118 error npm  v2.15.0
+119 error fetch failed with status code 500
+120 error If you need help, you may report this error at:
+120 error     <https://github.com/npm/npm/issues>
+121 verbose exit [ 1, true ]
